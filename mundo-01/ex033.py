@@ -1,0 +1,7 @@
+"""Exercício Python #033 - Maior e menor valores"""
+
+valor1 = int(input('Primeiro valor: '))
+valor2 = int(input('Segundo valor: '))
+valor3 = int(input('Terceiro valor: '))
+print(f'O menor valor digitado foi {min(valor1, valor2, valor3)}.')
+print(f'O maior valor digitado foi {max(valor1, valor2, valor3)}.')
