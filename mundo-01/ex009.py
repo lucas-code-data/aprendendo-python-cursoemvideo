@@ -1,3 +1,5 @@
+"""Exercício Python #009 - Tabuada"""
+
 num = int(input('Digite um número para ver sua tabuada: '))
 print('-'*20)
 print(f'''{num} x  1 = {num * 1}

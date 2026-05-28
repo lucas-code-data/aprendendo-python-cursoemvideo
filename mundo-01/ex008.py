@@ -1,3 +1,5 @@
+"""Exercício Python #008 - Conversor de Medidas"""
+
 distancia = float(input('Distância em metros: '))
 print(f'''A medida de {distancia:.1f} corresponde a
 {distancia / 1000}km

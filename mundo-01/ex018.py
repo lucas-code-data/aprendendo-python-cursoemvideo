@@ -1,3 +1,5 @@
+"""Exercício Python #018 - Seno, Cosseno e Tangente"""
+
 import math
 angulo = float(input('Digite o ângulo que você deseja: '))
 angulo_rad = math.radians(angulo)

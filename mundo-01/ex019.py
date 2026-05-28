@@ -1,3 +1,5 @@
+"""Exercício Python #019 - Sorteando um item na lista"""
+
 from random import choice
 aluno1 = input('Primeiro aluno: ')
 aluno2 = input('Segundo aluno: ')

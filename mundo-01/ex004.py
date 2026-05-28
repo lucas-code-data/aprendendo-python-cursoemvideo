@@ -1,3 +1,5 @@
+"""Exercício Python #004 - Dissecando uma Variável"""
+
 resposta_usuario = input('Digite algo: ')
 print(f'''o tipo primitivo desse valor é {type(resposta_usuario)} 
 Só tem espaços? {resposta_usuario.isspace()}

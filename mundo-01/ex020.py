@@ -1,3 +1,5 @@
+"""Exercício Python #020 - Sorteando uma ordem na lista"""
+
 from random import shuffle
 aluno1 = input('Primeiro aluno: ')
 aluno2 = input('Segundo aluno: ')

@@ -1,3 +1,5 @@
+"""Exercício Python #006 - Dobro, Triplo, Raiz Quadrada"""
+
 num = int(input('Digite um número inteiro: '))
 print(f'''O dobro de {num} vale {num * 2}.
 O triplo de {num} vale {num * 3}.

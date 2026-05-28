@@ -1,3 +1,5 @@
+"""Exercício Python #011 - Pintando Parede"""
+
 largura = float(input('Largura da parede: '))
 altura = float(input('Altura da parede: '))
 area = largura * altura
